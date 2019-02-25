@@ -5,5 +5,19 @@ Hello! This was a project in Python that was created for the Python for Data Sci
 
 - Recommended, the marketing team, ways to better target customers using feature importance maps and business intuition
 
-![Alt text](https://github.com/aakashrkaku/Bank-Marketing-Campaign-Analysis/blob/master/s1.png?raw=true "Title")
+Instructions to run the code:
+1. Make sure the data file ("bank-additional-full.csv") is in the same directory as the ipython notebook or 
+edit the ipython notebook accordingly.
+2. Make sure to run the notebook in python 3 environment. 
+Make sure all the dependencies used in the notebook are installed in the local machine.
+3. Run the code sequentially as given in the notebook.
+4. Notebook is commented adequately to give the rational, inferences of the executed code.
+
+## Quick result
+### Feature Importance
+
 ![Alt text](https://github.com/aakashrkaku/Bank-Marketing-Campaign-Analysis/blob/master/s2.png?raw=true "Title")
+
+### Final recommendations based on our analysis
+
+![Alt text](https://github.com/aakashrkaku/Bank-Marketing-Campaign-Analysis/blob/master/s1.png?raw=true "Title")
